@@ -1,31 +1,62 @@
-# Max Forex & Automated Trading Robot Platform
+# Wintradeinvest & Automated Trading Robot Platform
 
 A secure, compliant cryptocurrency investment platform powered by advanced AI trading technology, designed specifically for the Nigerian market and global crypto investors.
 
 ## 🎯 Project Overview
 
-Max Forex & Automated Trading Robot Org is a cutting-edge digital investment platform that enables clients to invest in cryptocurrency portfolios managed by AI-driven trading algorithms. The platform prioritizes security, regulatory compliance, transparency, and user experience while providing seamless crypto-based investing with automated profit generation.
+Wintradeinvest & Automated Trading Robot Org is a cutting-edge digital investment platform that enables clients to invest in cryptocurrency portfolios managed by AI-driven trading algorithms. The platform is operated with strict adherence to national and international regulatory standards governing crypto investments.
+
+---
+
+## ⚖️ Regulatory Alignment & Legal Compliance
+
+### Platform Registration & Licensing
+- The platform is in the process of regulatory registration and licensing with Nigeria's Securities and Exchange Commission (SEC) and operates under applicable laws governing virtual asset service providers.
+- Globally, we follow the best practices for registration and compliance as recommended by leading financial authorities (including FINRA, FCA, etc).
+
+### Anti-Money Laundering (AML) & Counter-Terrorism Financing (CTF)
+- Strict AML/CTF protocols, including customer due diligence (CDD) and enhanced due diligence (EDD) for large or suspicious transactions.
+- Ongoing transaction monitoring, screening against international sanctions lists (OFAC, UN, EU), Politically Exposed Person (PEP) reviews, and automated reporting of suspicious activities.
+
+### Consumer Protection
+- Funds are segregated: client deposits are never mixed with operational accounts, and cold storage is used for additional security.
+- Investors are presented with clear risk disclosures prior to onboarding and must complete robust KYC/AML verification.
+- Full transparency on fees, charges (including blockchain/network fees), and profit-sharing.
+
+### Data Protection
+- NDPR-compliant data handling as mandated by Nigeria Data Protection Regulation and GDPR for international users.
+- End-to-end data encryption, regular security audits, and breach notification protocols.
+
+### Complaints & Dispute Resolution
+- Clear customer complaint procedures as mandated by Nigerian and international investment regulations.
+- Support team available via live chat or direct admin email.
+
+### Tax & Reporting
+- Automated VAT calculation for Nigerian users; all transactions are recorded for audit and compliance.
+- Regular reporting and disclosures to regulatory authorities as required by law.
+
+---
 
 ## ✨ Key Features
 
 ### Client Features
-- **Secure Registration & KYC**: Comprehensive onboarding with government ID verification, proof of address, and biometric validation
-- **User Dashboard**: Real-time portfolio tracking, investment management, and transaction history
-- **Multi-Tier Investment Plans**: Three investment tiers ($250, $500, $1000 USDT) with transparent profit-sharing
-- **Crypto Deposits**: Support for USDT (TRC20) and Bitcoin (BTC) with QR code integration
-- **Fast Withdrawals**: 24-hour processing time with transparent fee structure
-- **Live Chat Support**: Real-time communication with platform administrators
-- **Multi-Factor Authentication**: Enhanced security with 2FA support
-- **Referral System**: Earn bonuses when referred users make their first deposit
+- **Secure Registration & KYC**: Comprehensive onboarding with government ID verification, proof of address, and biometric validation, fully compliant with SEC and CBN requirements.
+- **User Dashboard**: Real-time portfolio tracking, investment management, and transaction history.
+- **Multi-Tier Investment Plans**: Three investment tiers ($250, $500, $1000 USDT) with transparent profit-sharing and regulatory disclosures.
+- **Crypto Deposits**: Support for USDT (TRC20) and Bitcoin (BTC) with QR code integration.
+- **Fast Withdrawals**: 24-hour processing time with transparent fee structure.
+- **Live Chat Support**: Real-time communication with platform administrators.
+- **Multi-Factor Authentication**: Enhanced security with 2FA support.
+- **Referral System**: Earn bonuses when referred users make their first deposit.
 
 ### Admin Features
-- **Centralized Dashboard**: Complete oversight of user accounts, transactions, and KYC verification
-- **Deposit/Withdrawal Management**: Real-time approval workflow for all financial transactions
-- **User Management**: Create, edit, and manage client accounts with full audit trails
-- **Notification Center**: Instant alerts for registrations, deposits, and withdrawal requests
-- **Live Chat Management**: Respond to client inquiries with full conversation history
-- **Investment Plan Control**: Configure and manage investment tiers and profit structures
-- **Security Logs**: Comprehensive audit trails for all administrative actions
+- **Centralized Dashboard**: Complete oversight of user accounts, transactions, and KYC verification.
+- **Deposit/Withdrawal Management**: Real-time approval workflow for all financial transactions.
+- **User Management**: Create, edit, and manage client accounts with full audit trails.
+- **Notification Center**: Instant alerts for registrations, deposits, and withdrawal requests.
+- **Live Chat Management**: Respond to client inquiries with full conversation history.
+- **Investment Plan Control**: Configure and manage investment tiers and profit structures.
+- **Security Logs**: Comprehensive audit trails for all administrative actions.
 
 ## 💼 Investment Plans
 
@@ -36,11 +67,11 @@ Max Forex & Automated Trading Robot Org is a cutting-edge digital investment pla
 | **Platinum** | $1000 USDT | 20% | 100% principal + AI profits (minus 20% share) | ≤ 24 hours |
 
 ### Profit Distribution Model
-- Clients retain 100% of their invested principal
-- AI trading robot generates market-based profits
-- Platform retains 20% of trading profits
-- Net profits credited to client accounts
-- Transparent fee disclosure (blockchain charges + VAT)
+- Clients retain 100% of their invested principal.
+- AI trading robot generates market-based profits.
+- Platform retains 20% of trading profits.
+- Net profits credited to client accounts.
+- Fees are disclosed transparently (blockchain charges + VAT).
 
 ## 🏗️ Technical Architecture
 
@@ -74,28 +105,23 @@ Max Forex & Automated Trading Robot Org is a cutting-edge digital investment pla
 
 ## 🔐 Security & Compliance
 
-### Regulatory Compliance (Nigeria)
-- **KYC/AML**: Robust identity verification compliant with SEC and CBN guidelines
-- **Data Protection**: NDPR-compliant data handling and storage
-- **Tax Compliance**: Automatic VAT calculation and transparent fee disclosure
-- **Consumer Protection**: Clear risk disclosures and investment terms
-- **Platform Registration**: Legal entity establishment per Nigerian regulations
+### Regulatory Compliance (Nigeria & Global Standards)
+- **KYC/AML**: Robust identity verification compliant with SEC (Nigeria) and international guidelines.
+- **Data Protection**: NDPR/GDPR-compliant data handling and storage.
+- **Tax Compliance**: Automatic VAT calculation and transparent fee disclosure per local laws.
+- **Consumer Protection**: Risk disclosures and terms presented before investment.
+- **Platform Registration**: Legal entity establishment, active regulatory engagement.
 
 ### Security Protocols
-- Multi-factor authentication (MFA) for all users
-- End-to-end encryption for sensitive data
-- Blockchain transaction monitoring
-- Funds segregation (operational vs. client funds)
-- Cold storage for majority of reserves
-- Regular security audits and penetration testing
-- Anti-phishing user education
+- Multi-factor authentication (MFA) for all users.
+- End-to-end encryption for sensitive data.
+- Blockchain transaction monitoring.
+- Funds segregation, regular audits, penetration testing, and security alerting.
 
 ### AML Monitoring
-- Real-time transaction screening
-- Sanctions list checking (OFAC, UN, EU)
-- PEP (Politically Exposed Person) database screening
-- Suspicious activity pattern detection
-- Automated flagging and reporting
+- Real-time transaction screening.
+- Sanctions list checking, PEP screening.
+- Suspicious activity detection and automated flagging.
 
 ## 🚀 Getting Started
 
@@ -120,13 +146,13 @@ npm run dev
 ```
 
 ### Environment Variables
-The following environment variables are automatically configured via Lovable Cloud:
+Automatically configured via Lovable Cloud:
 - `VITE_SUPABASE_URL`
 - `VITE_SUPABASE_PUBLISHABLE_KEY`
 - `VITE_SUPABASE_PROJECT_ID`
 
 ### Admin Access
-**Email**: maxforexautomatedforexroboti@gmail.com  
+**Email**: wintradeinvestadmin@gmail.com  
 **Password**: 338822  
 ⚠️ **Important**: Enable 2FA immediately after first login
 
@@ -134,7 +160,7 @@ The following environment variables are automatically configured via Lovable Clo
 
 ### For Clients
 1. **Register**: Create account with email and password
-2. **Complete KYC**: Upload ID documents and verification selfie
+2. **Complete KYC**: Upload ID documents and verification selfie (required by law)
 3. **Choose Investment Plan**: Select Silver, Gold, or Platinum tier
 4. **Deposit Funds**: Transfer USDT or BTC to provided wallet address
 5. **Track Performance**: Monitor investments and profits in real-time
@@ -156,16 +182,7 @@ The following environment variables are automatically configured via Lovable Clo
 - Encrypted communication
 - Full conversation history
 - Auto-responders for common queries
-
-### FAQ Coverage
-- Investment minimums and plans
-- Deposit/withdrawal procedures
-- KYC requirements
-- Profit calculation methodology
-- Fee structure
-- Security best practices
-- Regulatory compliance
-- Account troubleshooting
+- Access to complaints procedures and support escalation
 
 ## 🤖 AI Trading Robot
 
@@ -193,6 +210,7 @@ The following environment variables are automatically configured via Lovable Clo
 - KYC verification results
 - Profit distribution alerts
 - Promotional announcements
+- Regulatory and compliance updates
 
 ### Admin Notifications
 - New user registrations
@@ -254,26 +272,30 @@ npm run build
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui Components](https://ui.shadcn.com/)
 
-## ⚖️ Legal & Compliance
+---
 
-### Risk Disclosures
-- Cryptocurrency investments carry significant risk
-- Past performance does not guarantee future results
-- Clients may lose some or all of their investment
-- Only invest what you can afford to lose
+## ⚠️ Risk Disclosures
 
-### Terms & Conditions
+- Cryptocurrency investments carry significant risk, including loss of capital.
+- Past performance does not guarantee future results.
+- Clients may lose some or all of their investment.
+- Only invest what you can afford to lose.
+- The platform provides comprehensive Terms of Service, Privacy Policy, and Risk Disclosure as required by law.
+
+## 📋 Terms & Policies
+
 - Comprehensive Terms of Service
 - Privacy Policy (GDPR/NDPR compliant)
 - Risk Disclosure Document
 - Cookie Consent Policy
 
-## 📞 Contact
+## 📞 Contact & Support
 
-**Platform**: Max Forex & Automated Trading Robot Org  
-**Admin Email**: maxforexautomatedforexroboti@gmail.com  
-**Support**: Available via live chat in client dashboard
+**Platform**: Wintradeinvest & Automated Trading Robot Org  
+**Admin Email**: wintradeinvestadmin@gmail.com  
+**Support**: Available via live chat in client dashboard  
+**Complaints/Disputes**: Please follow the outlined procedure in the client dashboard or contact admin email.
 
 ---
 
-**⚠️ Disclaimer**: This platform facilitates cryptocurrency investments which are subject to market risk. All users must complete KYC verification and acknowledge investment risks before participating. The platform operates in compliance with Nigerian regulatory requirements as of 2025.
+**⚠️ Disclaimer**: This platform facilitates cryptocurrency investments which are subject to market risk. All users must complete KYC verification and acknowledge investment risks before participating. All clients are required to adhere to the legal terms, policies, and risk disclosures in accordance with Nigerian and international investment regulations.
