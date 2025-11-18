@@ -4,21 +4,118 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Win Trade Invest - AI-Powered Cryptocurrency Investment Platform</title>
-    <meta name="description" content="Professional cryptocurrency investment platform with AI-powered automated trading strategies. Secure, transparent, and profitable crypto trading." />
-    <parameter name="author" content="Win Trade Invest" />
+    <meta name="description" content="Win Trade Invest: Secure, transparent, and profitable AI-powered cryptocurrency trading platform." />
+    <meta name="author" content="Win Trade Invest" />
 
-    <meta property="og:title" content="Win Trade Invest - AI-Powered Cryptocurrency Investment" />
-    <meta property="og:description" content="Professional cryptocurrency investment platform with AI-powered automated trading strategies." />
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Win Trade Invest - AI-Powered Cryptocurrency Investment Platform" />
+    <meta property="og:description" content="Discover automated trading strategies powered by advanced AI for professional crypto investors." />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+    <meta property="og:url" content="https://wintradeinvest.com/" />
 
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@lovable_dev" />
+    <meta name="twitter:title" content="Win Trade Invest - AI-Powered Cryptocurrency Investment Platform" />
+    <meta name="twitter:description" content="Invest confidently in crypto using AI automation for secure, transparent, and profitable trading." />
     <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background: #FFD600; /* Bright yellow background */
+        color: #212121;      /* Dark text for clear contrast and visibility */
+        font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+        min-height: 100vh;
+        box-sizing: border-box;
+      }
+      #root {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      }
+      /* Style for noscript warning */
+      noscript div {
+        color: #212121;
+        background: #ffecb3;
+        border: 2px solid #FFD600;
+        border-radius: 6px;
+        padding: 1rem;
+        text-align: center;
+        font-weight: bold;
+      }
+
+      /* FIGURE/CHART IMPROVEMENT STYLES */
+      /* Usage: wrap figures/charts/numbers in a div with class="figure" or "chart" */
+      .figure, .chart, .stats {
+        background: #fffde7; /* Soft yellow for contrast */
+        border: 2px solid #FFD600;
+        border-radius: 16px;
+        box-shadow: 0 4px 24px rgba(33,33,33,0.14), 0 1.5px 8px rgba(255,214,0,.30);
+        color: #212121;
+        padding: 2rem;
+        margin: 2rem auto;
+        max-width: 480px;
+        font-size: 1.25rem;
+        font-weight: bold;
+        text-align: center;
+        transition: box-shadow 0.3s;
+      }
+      .figure:hover, .chart:hover, .stats:hover {
+        box-shadow: 0 8px 40px rgba(33,33,33,0.25), 0 2.5px 12px rgba(255,214,0,.34);
+      }
+      /* Example for numbers/statistics */
+      .stats .number {
+        color: #e65100; /* Standout orange for value */
+        font-size: 2.2em;
+        font-family: 'Roboto Mono', monospace;
+        display: block;
+        margin-bottom: 0.5em;
+      }
+      /* Example: Used for chart titles */
+      .chart-title {
+        color: #FFD600;
+        background: #212121;
+        border-radius: 8px;
+        padding: 0.5em 1em;
+        margin-bottom: 1em;
+        display: inline-block;
+        font-size: 1.1em;
+        font-weight: bold;
+      }
+    </style>
   </head>
 
   <body>
+    <noscript>
+      <div>
+        Sorry, JavaScript is required to use Win Trade Invest. Please enable JavaScript in your browser.
+      </div>
+    </noscript>
     <div id="root"></div>
+    <!-- Example figure, chart, and stats usage -->
+    <!--
+    <div class="figure">
+      <div class="stats">
+        <span class="number">9,120</span>
+        <span>Active Trades</span>
+      </div>
+    </div>
+    <div class="chart">
+      <span class="chart-title">BTC Growth Rate - 2025</span>
+      <img src="path/to/chart.png" alt="BTC Growth Chart" style="max-width:100%; border-radius:6px;">
+    </div>
+    -->
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
